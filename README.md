@@ -38,7 +38,7 @@ Download the repository - [TypeRacer](https://github.com/SatheeshKumarS26/TypeRa
 **2. Design** - Angular's routing technique is not used in this project. Instead the current implementation just removes/hides the various DOM elements, thus maintaining the same URL throughout the game.<br/>
 **3. Implementation** - Refer to the "**Languages/Frameworks Used**" section above to know the technologies used in this project.<br/>
 **4. Testing** - The tests can be found [here](https://github.com/gbelwariar/TypeRacer/tree/master/test) and [here](https://github.com/SatheeshKumarS26/TypeRacer/tree/master/test/jasmine). These are organized in a similar fashion as the main implementation files.<br/>
-**5. Maintenance** - Any suggestions to improve the projects are welcome on gbelwariar@gmail.com or can be directly sent as a PR.<br/>
+**5. Maintenance** - Any suggestions to improve the projects are welcome on satheeshkumar.srinivasan@gmail.com or can be directly sent as a PR.<br/>
 
 ## Components of the Projects
 
